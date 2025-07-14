@@ -19,3 +19,8 @@
   git config user.name "Zerschmuser"
   git config user.email "175074114+Zerschmuser@users.noreply.github.com"
   ```
+## 📝 Initialer Commit
+
+- Datei `main.py` erstellt mit folgendem Inhalt:
+  ```python
+  print('Hallo Welt')
